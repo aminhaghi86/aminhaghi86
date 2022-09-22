@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate MERN 
 - 🤔 I’m looking for help with Backend
 - 💬 Ask me about Design and UI 
-- 📫 How to reach me: [Portfolio](https://aminhaghiportfolio.netlify.app/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/smahaghi86/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Loading... 😄
 
