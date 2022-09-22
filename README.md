@@ -9,13 +9,13 @@
 
 - 🤝 I’m looking for help with **Backend**
 
-- 👨‍💻 All of my projects are available at [project](https://aminhaghiportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at ....
 
 - 💬 Ask me about **Design,UI,React**
 
 - 📫 How to reach me **amin.haghi@hyperisland.se**
 
-- 📄 Know about my experiences [https://aminhaghiportfolio.netlify.app/static/media/Resume.d671682b.pdf](https://aminhaghiportfolio.netlify.app/static/media/Resume.d671682b.pdf)
+- 📄 Know about my experiences ....loading....
 
 - ⚡ Fun fact **Loading...**
 
