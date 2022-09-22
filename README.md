@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Backend**
 
-- 👨‍💻 All of my projects are available at [https://aminhaghiportfolio.netlify.app/project](https://aminhaghiportfolio.netlify.app/project)
+- 👨‍💻 All of my projects are available at [project](https://aminhaghiportfolio.netlify.app/project)
 
 - 💬 Ask me about **Design,UI,React**
 
