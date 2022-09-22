@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Amin Haghi</h1>
 <h3 align="center">A passionate frontend developer from Sweden</h3>
 
+<img width="400" alt="aminhaghi" align="right" src="https://patryk.it/img/blog/dx-and-working-with-git.gif">
+
 - 🔭 I’m currently working on **Ecommerce Project**
 
 - 🌱 I’m currently learning **MongoDB,Nodejs**
