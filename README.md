@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **Loading...**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: [Linedin](https://www.linkedin.com/in/smahaghi86/) </h3>
 <p align="left">
 </p>
 
