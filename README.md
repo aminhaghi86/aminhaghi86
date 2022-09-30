@@ -3,7 +3,7 @@
 <img width="400" alt="aminhaghi" align="right" src="https://patryk.it/img/blog/dx-and-working-with-git.gif">
 - 🔭 I’m currently working on **Ecommerce Project**
 
-- 🌱 I’m currently learning **MongoDB,Nodejs**
+- 🌱 I’m currently learning **Database**
 
 - 👯 I’m looking to collaborate on **MERN**
 
