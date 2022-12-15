@@ -27,7 +27,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-
+![Amin's github stats](https://github-readme-stats.vercel.app/api?username=aminhaghi86)
 
 
 
