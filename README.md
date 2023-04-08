@@ -3,21 +3,14 @@
 <img width="400" alt="aminhaghi" align="right" src="https://patryk.it/img/blog/dx-and-working-with-git.gif">
 - 🔭 I’m currently working on **Ecommerce Project**
 
-- 🌱 I’m currently learning ....
-
-- 👯 I’m looking to collaborate on ....
-
-- 🤝 I’m looking for help with .....
-
-- 👨‍💻 All of my projects are available at ....
-
-- 💬 Ask me about ****
-
-- 📫 How to reach me **amin.haghi@hyperisland.se**
-
-- 📄 Know about my experiences ....
-
-- ⚡ Fun fact **Loading**
+- 🔭 I’m currently working on Ecommerce Project
+- 🌱 I’m currently learning MERN
+- 👯 I’m looking to collaborate MERN 
+- 🤔 I’m looking for help with Backend
+- 💬 Ask me about Design and UI 
+- 📫 How to reach me: [Portfolio](https://aminhaghi.netlify.app/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: ...... 😄
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
